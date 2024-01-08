@@ -1,5 +1,5 @@
-# Data_Visualization_Malaria
-# Data_Visualization_Malaria
+# Disease burden of Malaria
+
 ## Background
 Malaria is a life-threatening disease that is spread to humans by certain types of mosquitoes. The prevalence of malaria is widespread in tropical countries due to their geographic and climatic conditions. Malaria is caused by a parasite called plasmodium which is carried by a female Anopheles mosquito. It mostly spreads to people through the bite of these infected mosquitoes. People with HIV/AIDS, pregnant women, children under 5 years, and travellers are at a higher risk of severe infection. Once the plasmodium is injected into the bloodstream of a healthy person, it travels to the liver cells and multiplies, eventually coming back to the bloodstream as the liver cells burst open. A similar cycle continues in the red blood cells (RBCs) until the RBCs burst open. The typical symptoms of malaria include fever, sweating and chills which can eventually lead to death, if left untreated, due to the depletion of RBCs. However, it is preventable and curable. Malaria can be caused by five different Plasmodium parasites, of which P. falciparum and P. vivax pose the greatest threat. The other malaria species that can infect humans are P. malariae, P. ovale and P. knowlesi. 
 
