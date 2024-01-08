@@ -13,6 +13,7 @@ Over the past two decades, Malaria cases have accounted for 43.44% of all diseas
 Reduce the number of confirmed cases in Loreto (a department of Peru) caused by M. Falciparum (2,416) and M. Vivax (12,817) by 5% in the next 3 years in order to reduce the number of people affected by malaria. 
 
 ## Define stage
+<img width="646" alt="Cause effect_diagram" src="https://github.com/adishri10/Data_Visualization_Malaria/assets/143296432/64d04144-86bc-41a1-b55a-62afa7bb235c">
 
 
 ## Data Collection
